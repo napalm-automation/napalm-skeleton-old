@@ -1,6 +1,7 @@
 [![PyPI](https://img.shields.io/pypi/v/napalm-SKELETON.svg)](https://pypi.python.org/pypi/napalm-SKELETON)
 [![PyPI](https://img.shields.io/pypi/dm/napalm-SKELETON.svg)](https://pypi.python.org/pypi/napalm-SKELETON)
 [![Build Status](https://travis-ci.org/napalm-automation/napalm-SKELETON.svg?branch=master)](https://travis-ci.org/napalm-automation/napalm-SKELETON)
+[![Coverage Status](https://coveralls.io/repos/github/napalm-automation/napalm-SKELETON/badge.svg?branch=master)](https://coveralls.io/github/napalm-automation/napalm-SKELETON)
 
 # napalm-SKELETON
 
